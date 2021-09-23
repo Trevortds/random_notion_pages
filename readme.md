@@ -19,3 +19,5 @@ Open Notion.so in a browser. Find your cookies (in Firefox, right click anywhere
 # To get your databases 
 
 Open your database as a page. Click the three-dots menu dropdown in the upper right corner. Click "copy link". Paste this link in the "urls" list in main.py for each database you want to randomly select from. 
+
+Based largely on this gist by Jeff Tang https://gist.github.com/tangjeff0/0c218350dbfb9e1d88644ae777240167
